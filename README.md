@@ -19,18 +19,15 @@
 
 - 생성시 우분투로 생성한다. (그래야 git clone 가능)
 - pem 키 생성
+
+#### SSH 접근 확인 ####
+
 1. ssh -i (개인 키 파일 경로) (서버 아이디)@(ip주소)
-2. ssh -i ~/test-server.pem gabia_user@45.115.154.197
+2. ssh -i ~/test-key.pem gabia_user@45.115.154.197
 
 
 #### 방화벽 생성 ####
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/75782941-1e68-4f4f-8f36-c997f8cab030">
-
-#### SSH 접근 확인 ####
- 
-- 방법 : cmd에서 ssh -p 22 [사용자 ID]@[접속하려는 컴퓨터의 IP주소 또는 도메인]
-- ID : root
-- PASSWORD : 3P@8PUUk@74y
 
 ---
 
