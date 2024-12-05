@@ -18,9 +18,9 @@
 <img width="479" alt="image" src="https://github.com/user-attachments/assets/b94fe8b3-f5e7-4d49-a694-d34910ee685f">
 
 - 생성시 우분투로 생성한다. (그래야 git clone 가능)
-* pem 키 생성
-** ssh -i (개인 키 파일 경로) (서버 아이디)@(ip주소)
-** ssh -i ~/test-server.pem gabia_user@45.115.154.197
+- pem 키 생성
+1. ssh -i (개인 키 파일 경로) (서버 아이디)@(ip주소)
+2. ssh -i ~/test-server.pem gabia_user@45.115.154.197
 
 
 #### 방화벽 생성 ####
