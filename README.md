@@ -55,8 +55,8 @@ https://blog.naver.com/dlaxodud2388/223161852880
 #### 서버 호스팅 OR 컨테이너 호스팅 ####
 
 https://jaebins.tistory.com/12 
-https://velog.io/@po_lygon/gabia-1
+https://velog.io/@po_lygon/gabia-1 
 https://m.blog.naver.com/rnwkfydwkd/221999580669
 
-- cafe24 나 가비아에서 진행하는 방법으로 express 모듈 적용시켜 마운트 시켜줌으로써 작동하도록 한다 => 어떤 호스팅이 어울릴지는 고민
+- cafe24 나 가비아에서 진행하는 방법으로 express 모듈 적용시켜 마운트 시켜줌으로써 작동하도록 한다 => 어떤 호스팅이 어울릴지는 고민 (일단 nodejs, express 사용하는 방식으로)
 
